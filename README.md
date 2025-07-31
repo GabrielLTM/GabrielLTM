@@ -36,6 +36,4 @@ Atualmente, estou no 5º semestre de **Análise e Desenvolvimento de Sistemas** 
 ### 📫 Vamos nos conectar?
 
 <p align="left">
-<a href="https://www.linkedin.com/in/seu-linkedin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seu-linkedin" height="30" width="40" /></a>
-<a href="mailto:seu-email@exemplo.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="https://www.linkedin.com/in/gabriel-lessa-1aab21278/" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/gabriel-lessa-1aab21278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[seu-linkedin](https://www.linkedin.com/in/gabriel-lessa-1aab21278/)" height="30" width="40" /></a>
