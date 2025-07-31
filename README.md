@@ -14,7 +14,6 @@ Atualmente, estou no 5º semestre de **Análise e Desenvolvimento de Sistemas** 
 - **Linguagem & Framework:**
   - <img align="center" alt="Java" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> Java
   - <img align="center" alt="Spring" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> Spring Boot
-  - <img align="center" alt="Spring AI" height="20" src="https://img.shields.io/badge/Spring%20AI-white?logo=spring" style="margin-bottom: -3px;"> Spring AI
 - **Banco de Dados:**
   - <img align="center" alt="MongoDB" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"> MongoDB
 - **Mensageria & Cache:**
