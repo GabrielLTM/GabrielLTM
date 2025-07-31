@@ -22,7 +22,7 @@ Atualmente, estou no 5º semestre de **Análise e Desenvolvimento de Sistemas** 
   - <img align="center" alt="Redis" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"> Redis
 - **Segurança:**
   - <img align="center" alt="JWT" height="20" src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" style="margin-bottom: -3px;"> JWT
-  - <img align="center" alt="Keycloak" height="20" src="[https://www.keycloak.org/resources/images/keycloak_logo_48px.png](https://img.icons8.com/?size=100&id=37PBwQwtRMDZ&format=png&color=000000)" style="margin-bottom: -3px;"> Keycloak
+  - <img align="center" alt="Keycloak" height="20" src="https://img.icons8.com/?size=100&id=37PBwQwtRMDZ&format=png&color=000000" style="margin-bottom: -3px;"> Keycloak
 
 ---
 ### 🎯 Foco Atual
