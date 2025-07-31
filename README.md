@@ -17,7 +17,7 @@ Atualmente, estou no 5º semestre de **Análise e Desenvolvimento de Sistemas** 
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
   <img align="center" alt="Kafka" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg">
-  <img align="center" alt="JWT" height="30" width="40" src="https://img.icons8.com/color/48/000000/json-web-token.png">
+  <img align="center" alt="JWT" height="30" width="40" src="https://img.icons8.com/color/48/000000/json-web-token.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficons%2Fset%2Fjwt&psig=AOvVaw0-4duJKwKK2Aa3tnDqqueF&ust=1754049954217000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDBt7WH544DFQAAAAAdAAAAABAE)">
 </div>
 
 - **Linguagem & Framework:** Java, Spring Boot, Spring AI
