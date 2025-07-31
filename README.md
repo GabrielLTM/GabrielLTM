@@ -21,7 +21,7 @@ Atualmente, estou no 5º semestre de **Análise e Desenvolvimento de Sistemas** 
   - <img align="center" alt="Kafka" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg"> Apache Kafka
   - <img align="center" alt="Redis" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"> Redis
 - **Segurança:**
-  - <img align="center" alt="JWT" height="20" src="https://img.icons8.com/color/32/000000/json-web-token.png" style="margin-bottom: -3px;"> JWT
+  - <img align="center" alt="JWT" height="20" src="[https://img.icons8.com/color/32/000000/json-web-token.png](https://icons8.com/icon/rHpveptSuwDz/json-web-token)" style="margin-bottom: -3px;"> JWT
   - <img align="center" alt="Keycloak" height="20" src="https://www.keycloak.org/resources/images/keycloak_logo_48px.png" style="margin-bottom: -3px;"> Keycloak
 
 ---
